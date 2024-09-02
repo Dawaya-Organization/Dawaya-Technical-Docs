@@ -7,9 +7,9 @@ This repository contains the documentation for the Dawaya project, which include
 
 ## Table of Contents
 
-- [Database Documentation](1-Database_ReadmeFiles/dawaya-erd-readme.md)
-- [Frontend Documentation](2-Frontend_ReadmeFiles/1-Frontend-architecture-readme.md)
-- [Backend Documentation](3-Backend_ReadmeFiles/backend-architecture-readme.md)
+- [Database Documentation](https://github.com/Dawaya-Organization/Dawaya-Technical-Docs/tree/main/Docs/Database_Documentation)
+- [Frontend Documentation](https://github.com/Dawaya-Organization/Dawaya-Technical-Docs/tree/main/Docs/Backend_Documentation)
+- [Backend Documentation](https://github.com/Dawaya-Organization/Dawaya-Technical-Docs/tree/main/Docs/Frontend_Documentation)
 
 ## How to Navigate
 
