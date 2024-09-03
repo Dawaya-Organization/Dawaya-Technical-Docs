@@ -35,6 +35,7 @@ project-root/
 ├── .env.test
 ├── .env
 └── .gitignore
+└── README.md
 ```
 
 ## 🚀 Features
