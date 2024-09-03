@@ -8,8 +8,9 @@ This repository contains the documentation for the Dawaya project, which include
 ## Table of Contents
 
 - [Database Documentation](https://github.com/Dawaya-Organization/Dawaya-Technical-Docs/tree/main/Docs/Database_Documentation)
-- [Frontend Documentation](https://github.com/Dawaya-Organization/Dawaya-Technical-Docs/tree/main/Docs/Backend_Documentation)
-- [Backend Documentation](https://github.com/Dawaya-Organization/Dawaya-Technical-Docs/tree/main/Docs/Frontend_Documentation)
+- [Frontend Documentation](https://github.com/Dawaya-Organization/Dawaya-Technical-Docs/tree/main/Docs/Frontend_Documentation)
+- [Backend Documentation](https://github.com/Dawaya-Organization/Dawaya-Technical-Docs/tree/main/Docs/Backend_Documentation)
+
 
 ## How to Navigate
 
