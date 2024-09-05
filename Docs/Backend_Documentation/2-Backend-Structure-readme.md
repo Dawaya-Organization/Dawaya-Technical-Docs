@@ -156,4 +156,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Dawaya-Organization/Dawaya-info/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Dawaya-Organization/Dawaya-Technical-Docs/blob/main/LICENSE) file for details.
